@@ -1,0 +1,27 @@
+# Core Dependencies
+pillow>=10.0.0
+ttkbootstrap>=1.10.1
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+
+# AI - Whisper (GPU Support)
+openai-whisper>=20231117
+torch>=2.0.0
+torchaudio>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Video Processing
+opencv-python>=4.8.0
+
+# Network
+requests>=2.31.0
+urllib3>=2.0.0
+certifi>=2023.7.22
+
+# Build Tool
+pyinstaller>=6.0.0
+
+# Optional but recommended
+psutil>=5.9.0  # For system resource monitoring
+pystray>=0.19.0  # For system tray (minimize to tray)

@@ -1,0 +1,60 @@
+{
+    "version": "2.0.2",
+    "theme": "light",
+    "output_dir": "C:\\Users\\Admin\\Desktop\\ToolEdit\\ToolEdit\\output",
+    "video": {
+        "start_time": 0,
+        "duration": 0,
+        "blur_amount": 3,
+        "brightness": 1.0,
+        "zoom_factor": 1.05,
+        "speed_factor": 1.3164556962025316,
+        "mirror_enabled": false,
+        "aspect_ratio": "9:16 (TikTok/Shorts)",
+        "resize_mode": "Thêm viền (Fit)",
+        "uniform_scale": false,
+        "scale_w": 1.0921487603305786,
+        "scale_h": 2.632923076923077,
+        "enable_zoom": false,
+        "enable_speed": false,
+        "enable_blur": true,
+        "enable_brightness": true,
+        "color_filter": "Gốc (None)"
+    },
+    "audio": {
+        "volume_boost": 1.0,
+        "bass_boost": 0,
+        "treble_boost": 0
+    },
+    "subtitle": {
+        "enable_subtitles": true,
+        "subtitle_language": "auto (Tự động)",
+        "force_google_subs": false,
+        "enable_subtitle_bar": false,
+        "subtitle_bar_height": 132
+    },
+    "intro_outro": {
+        "enable_intro": false,
+        "intro_path": "",
+        "enable_outro": true,
+        "outro_path": "D:/EditVideo/outtro/1230 (1).mp4"
+    },
+    "stickers": {
+        "stickers_list": [
+            {
+                "path": "C:\\Users\\Admin\\Desktop\\ToolEdit\\ToolEdit\\assets\\stickers\\fire.png",
+                "pos": "Top Right",
+                "scale": 0.2,
+                "x": 0.8,
+                "y": 0.8
+            }
+        ],
+        "sticker_pos": "Top Right",
+        "sticker_scale": 0.2
+    },
+    "system": {
+        "num_threads": 3,
+        "use_gpu": true,
+        "enable_minimize_to_tray": false
+    }
+}

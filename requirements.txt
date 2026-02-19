@@ -1,0 +1,13 @@
+tkinterdnd2
+moviepy
+openai-whisper
+faster-whisper
+SpeechRecognition
+imageio-ffmpeg
+pillow
+numpy
+scipy
+psutil
+requests
+customtkinter
+opencv-python

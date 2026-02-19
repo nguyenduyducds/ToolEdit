@@ -1,0 +1,49 @@
+{
+    "version": "2.0.0",
+    "video": {
+        "start_time": 0,
+        "duration": 0,
+        "blur_amount": 2.5,
+        "brightness": 1.0,
+        "zoom_factor": 1.0,
+        "speed_factor": 1.0,
+        "mirror_enabled": false,
+        "aspect_ratio": "Giữ nguyên (Original)",
+        "resize_mode": "Thêm viền (Fit)",
+        "uniform_scale": false,
+        "scale_w": 1.0,
+        "scale_h": 1.0,
+        "enable_zoom": false,
+        "enable_speed": false,
+        "enable_blur": false,
+        "enable_brightness": false,
+        "color_filter": "Gốc (None)"
+    },
+    "audio": {
+        "volume_boost": 1.0,
+        "bass_boost": 0,
+        "treble_boost": 0
+    },
+    "subtitle": {
+        "enable_subtitles": false,
+        "force_google_subs": false,
+        "enable_subtitle_bar": false,
+        "subtitle_bar_height": 80
+    },
+    "intro_outro": {
+        "enable_intro": false,
+        "intro_path": "",
+        "enable_outro": false,
+        "outro_path": ""
+    },
+    "stickers": {
+        "stickers_list": [],
+        "sticker_pos": "Góc phải dưới",
+        "sticker_scale": 0.2
+    },
+    "system": {
+        "num_threads": 8,
+        "use_gpu": true,
+        "enable_minimize_to_tray": false
+    }
+}
